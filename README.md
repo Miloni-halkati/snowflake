@@ -17,9 +17,7 @@ This Streamlit application predicts the Return on Investment (ROI) based on adve
 - Pandas  
 - Snowflake Data Warehouse  
 
-## Setup and Usage
-
-### Prerequisites
+## Prerequisites
 
 - Snowflake account with access to Snowpark and Streamlit in Snowsight  
 - Python 3.8+ (if running locally)  
